@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "479826999512",
+    "firebase_url": "https://snapper-23f10.firebaseio.com",
+    "project_id": "snapper-23f10",
+    "storage_bucket": "snapper-23f10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479826999512:android:6c9b3f9625dcd2c6",
+        "android_client_info": {
+          "package_name": "shillonghack.snapper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479826999512-rcckmfbgcvknmvfcanjqh0tf431js4bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shillonghack.snapper",
+            "certificate_hash": "7bfb42ce8b9cfddea8f661d84fdfa5d48bce9f01"
+          }
+        },
+        {
+          "client_id": "479826999512-q2dsfi6m95eamg39s70jjk5usst52edn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaSk7QmZWDiWFBLfPygYOLukwsl4lhehw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479826999512-q2dsfi6m95eamg39s70jjk5usst52edn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
