@@ -5,3 +5,5 @@ Android App for taking a picture, adding some details and uploading it to Fireba
    a Firebase database.
    
 2. There is also a location feature built in this app which lets you know your own location.
+
+
